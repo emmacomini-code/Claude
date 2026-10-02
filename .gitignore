@@ -1,0 +1,4 @@
+.notebooklm/
+storage_state.json
+master_token.json
+__pycache__/
